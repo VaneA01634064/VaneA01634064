@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaneA01634064
+- 👋 Hi, I’m @VaneCuevar
 - 👀 I’m interested in learning artificial intelligence
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on artificial intelligence
