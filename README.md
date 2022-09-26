@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaneCuevar
-- 👀 I’m interested in learning artificial intelligence
+- 👀 I’m interested in learning FrontEnd for WEB
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on artificial intelligence
 - 📫 How to reach me vane.cuevar98@gmail.com
